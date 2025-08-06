@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-moderator-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.1",
+    "qrcode-terminal": "^0.12.0",
+    "tesseract.js": "^4.1.1",
+    "dayjs": "^1.11.10"
+  }
+}
